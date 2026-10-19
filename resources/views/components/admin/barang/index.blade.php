@@ -1,0 +1,1 @@
+@include('components.superadmin.barang.index')
